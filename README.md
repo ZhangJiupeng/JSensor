@@ -1,2 +1,2 @@
 # JSensor
-see jsensor.zhangjiupeng.com
+see [jsensor.zhangjiupeng.com](http://jsensor.zhangjiupeng.com)
